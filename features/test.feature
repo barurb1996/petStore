@@ -1,4 +1,9 @@
 @pet-store
+
+# This pet store does not represent true logic of an application.
+# I should not be able to set or update manually the id of the records (pets) that I create.
+# This should be done by the backend side.
+
 Feature: Pet store API testing
 
   Scenario: Successful pet creation
