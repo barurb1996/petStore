@@ -9,4 +9,8 @@ Retrieval of non-existing pet.
 I tried to test the authorization and scopes but for some reason it seems it does not work properly.
 With or without being authorized with specific scopes I had accessed to all the resources.
 
+To run the tests execute command:
+`npx cucumber-js`
+
+
 
